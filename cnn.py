@@ -63,6 +63,7 @@ def second_cnn_layer():
     return h_pool2
     # h_conv2 -> [batch, 14, 14, 64]
     # output  -> [batch, 7, 7, 64]
+    #123456
 
 
 def full_connection():
